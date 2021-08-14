@@ -7,5 +7,5 @@ I’m a passionate and dedicated IT enthusiastic person. I’m strongly committe
 Skills: Networking, IT support, Cisco, MikroTik
 
 ### Find me on- 
-[<img src='https://www.amocrm.com/static/images/pages/integrations/logo/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asmtamim//)  
+[<img src='https://www.amocrm.com/static/images/pages/integrations/logo/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asmtamim//)  
 
