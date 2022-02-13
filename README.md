@@ -6,5 +6,4 @@ I’m a passionate and dedicated IT enthusiastic person. I’m strongly committe
 
 Skills: Networking, IT support, Cisco, MikroTik
 
-### Find me on- 
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='Linkedin' height='50'>](https://www.linkedin.com/in/asmtamim/) [<img src='https://image.similarpng.com/very-thumbnail/2020/04/Popular-facebook-Logo-png.png' alt='Facebook' height='50'>](https://www.facebook.com/tamiim19/)
+### Find me on- [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='Linkedin' height='30'>](https://www.linkedin.com/in/asmtamim/)  [<img src='https://befc.com.au/wp-content/uploads/2019/07/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.jpg' alt='Facebook' height='30'>](https://www.facebook.com/tamiim19/)
