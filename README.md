@@ -6,5 +6,4 @@ I am an IT enthusiast, self-motivated, and hardworking fresher. I am committed t
 
 <b>Skills:</b> C#, SQL, HTML-CSS, C++, Problem-solving, IT support, Networking. 
 
-### Find me on- 
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='Linkedin' height='30'>](https://www.linkedin.com/in/asmtamim/)   [<img src='https://befc.com.au/wp-content/uploads/2019/07/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.jpg' alt='Facebook' height='30'>](https://www.facebook.com/tamiim19/)
+### Find me on- [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='Linkedin' height='30'>](https://www.linkedin.com/in/asmtamim/)  
