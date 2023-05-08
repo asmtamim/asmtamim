@@ -1,6 +1,6 @@
 #### Hi, Assalamu Alaikum! 👋 
 ### I'm Tamim
-#### An Aspiring Software Developer
+#### An Aspiring Software Developer, mostly Back-end!
 
 I am an IT enthusiast, self-motivated, and hardworking fresher. I am committed to building my career as a Software Engineer. I want to use my knowledge, creativity, and self-learning skills effectively by creating efficient software systems in the industry.
 
