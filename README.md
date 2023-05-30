@@ -9,15 +9,15 @@
 - <h3>Contact Email : <a href="mailto:tamim.webdev.com">tamim.webdev.com</a> </h3>
 
 - <h3 align="left">Find me on : 
-  <a href="https://linkedin.com/in/asmtamim" target="_blank">Linkedin<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmtamim" height="30" width="40" /></a>, 
-  <a href="https://www.codechef.com/users/asmtamim" target="_blank">CodeChef<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asmtamim" height="30" width="40" /></a>, 
+  <a href="https://linkedin.com/in/asmtamim" target="_blank">Linkedin<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmtamim" height="30" width="40" /></a> | 
+  <a href="https://www.codechef.com/users/asmtamim" target="_blank">CodeChef<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asmtamim" height="30" width="40" /></a> | 
   <a href="https://www.hackerrank.com/asmtamim" target="_blank">HackerRank<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asmtamim" height="30" width="40" /></a></h3>
 
 <br><h2 align="left">Languages and Technologies</h2>
 
 - <h3 align="left">Front-end Technology : </h3>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> | 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> | 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
   
 - <h3 align="left">Programming Languages : </h3>
