@@ -1,14 +1,10 @@
-#### Hi, Assalamu Alaikum! 👋 
-### I'm Tamim
-#### An Aspiring Software Developer, mostly Back-end!
-
-I am an IT enthusiast, self-motivated, and hardworking fresher. I am committed to building my career as a Software Engineer. I want to use my knowledge, creativity, and self-learning skills effectively by creating efficient software systems in the industry.
-
-<b>Skills:</b> Python, Flask, C#, ASP.NET Core MVC, Entity Framework, MS SQL Server, MySQL HTML-CSS-Bootstrap, C++, Problem-solving, IT support, Networking. 
-
 <h2 align="center">Hi, Assalamu Alaikum! 👋</h2>
 <h1 align="center">I'm Tamim. SIRAJUM MUNIR TAMIM.</h1>
 <h3 align="center">An Aspiring Software Developer, mostly Back-end!</h3> 
+
+#### I am an IT enthusiast with a strong interest in pursuing a career as a Software & Web Developer. I possess a wide range of technical skills including HTML, CSS – Bootstrap, programming languages like– Python (Flask/Django), C# and C++, Object-Oriented Programming, ASP.NET MVC, Entity Framework, Windows Form Applications, and Microsoft SQL Server. I have worked on several projects demonstrating my technical skills and ability to create functional and efficient applications. I also have experience in problem-solving. 
+#### I also have an understanding of the Software Development Life Cycle– SDLC. My experience includes working with Visual Studio, Git, TortoiseGit, GitHub, Microsoft Office Tools, and Outlook Mail Client. My communication skills are excellent. In addition to my interests, I am passionate about software development, web development, personal health, traveling, and business.
+#### In summary, I am a highly motivated, hardworking, and dedicated individual with a strong passion for software development. With my technical skills, communication skills, and range of interests, I am confident in my ability to contribute to any team as a Software & Web Developer.
 
 - <h3>Contact Email : <a href="mailto:tamim.webdev.com">tamim.webdev.com</a> </h3>
 
