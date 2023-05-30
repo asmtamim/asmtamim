@@ -6,12 +6,13 @@ I am an IT enthusiast, self-motivated, and hardworking fresher. I am committed t
 
 <b>Skills:</b> Python, Flask, C#, ASP.NET Core MVC, Entity Framework, MS SQL Server, MySQL HTML-CSS-Bootstrap, C++, Problem-solving, IT support, Networking. 
 
-<h1 align="center">Hi 👋, I'm SIRAJUM MUNIR TAMIM</h1>
-<h3 align="center">An Aspiring Software Developer, mostly Back-end!</h3>
+<h2 align="center">Hi, Assalamu Alaikum! 👋</h2>
+<h1 align="center">I'm Tamim. SIRAJUM MUNIR TAMIM.</h1>
+<h3 align="center">An Aspiring Software Developer, mostly Back-end!</h3> 
 
-- 📫 How to reach me **tamim.webdev.com**
+- <h3>📧 Contact <a href="mailto:tamim.webdev.com">Email</a> : **tamim.webdev.com** </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asmtamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmtamim" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/asmtamim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asmtamim" height="30" width="40" /></a>
