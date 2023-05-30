@@ -12,10 +12,7 @@ I am an IT enthusiast, self-motivated, and hardworking fresher. I am committed t
 
 - <h3>📧 Contact Email : <a href="mailto:tamim.webdev.com">tamim.webdev.com</a> </h3>
 
-- <h3 align="left">Find me on :</h3>
-<a href="https://linkedin.com/in/asmtamim" target="blank">Linked <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmtamim" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/asmtamim" target="blank">CodeChef<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asmtamim" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asmtamim" target="blank">HackerRank<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asmtamim" height="30" width="40" /></a>
+- <h3 align="left">Find me on :</h3> <a href="https://linkedin.com/in/asmtamim" target="blank">Linkedin<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmtamim" height="30" width="40" /></a> <a href="https://www.codechef.com/users/asmtamim" target="blank">CodeChef<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asmtamim" height="30" width="40" /></a> <a href="https://www.hackerrank.com/asmtamim" target="blank">HackerRank<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asmtamim" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
