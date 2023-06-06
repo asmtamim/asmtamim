@@ -6,7 +6,7 @@
 #### I also have an understanding of the Software Development Life Cycle– SDLC. My experience includes working with Visual Studio, Git, TortoiseGit, GitHub, Microsoft Office Tools. My communication skills are excellent. In addition to my interests, I am passionate about software development, web development, personal health, traveling, and business.
 #### In summary, I am a highly motivated, and dedicated individual with a strong passion for software development. With my technical skills, communication skills, and range of interests, I am confident in my ability to contribute to any team as a Software & Web Developer.
 
-- <h3>Contact Email: <a href="mailto:tamim.webdev.com">tamim.webdev.com</a></h3>
+- <h3>Contact Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a></h3>
 
 - <h3 align="left">Find me on: 
     <a href="https://linkedin.com/in/asmtamim" target="_blank">Linkedin<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmtamim" height="30" width="40" /></a> • 
