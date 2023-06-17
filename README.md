@@ -10,10 +10,9 @@
 
 - <h3 align="left">Find me on: 
     <a href="https://linkedin.com/in/asmtamim" target="_blank"><img align="center" src="https://camo.githubusercontent.com/0f97be76882c909870c8188b191df789425a9dc785280dd44ea878f5188ab26f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6671594a4874797a5a7a4134766163527a654a6f423933514e7641352d6d76522d385542356f564c78645944535470664c705f4b67594434497156474a556746454a6f" height="40" width="40" /></a> | 
+    <a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="50" /></a> | 
     <a href="https://www.hackerrank.com/asmtamim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" /></a> | 
-    <a href="https://leetcode.com/asmtamim" target="_blank"><img align="center" src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" height="40" width="40" /></a> | 
-    <a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="40" /></a>
-
+    <a href="https://leetcode.com/asmtamim" target="_blank"><img align="center" src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" height="40" width="40" /></a>
 </h3>
 
 <br>
