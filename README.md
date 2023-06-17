@@ -9,10 +9,10 @@
 - <h3>Contact Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a></h3>
 
 - <h3 align="left">Find me on: 
-    <a href="https://linkedin.com/in/asmtamim" target="_blank"><img align="center" src="https://camo.githubusercontent.com/0f97be76882c909870c8188b191df789425a9dc785280dd44ea878f5188ab26f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6671594a4874797a5a7a4134766163527a654a6f423933514e7641352d6d76522d385542356f564c78645944535470664c705f4b67594434497156474a556746454a6f" height="40" width="40" /></a> • 
-    <a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://camo.githubusercontent.com/ccb5a051989c2ffe08f1923845d7611fc6f73b25d610fbebbffd300a5e79f8ed/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6465636865665f7368617265642f6d6973632f66622d696d6167652d69636f6e2e706e67" height="40" width="40" /></a> • 
-    <a href="https://www.hackerrank.com/asmtamim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" /></a> • 
-    <a href="https://twitter.com/asmtam1m" target="_blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" height="40" width="40" /></a> • 
+    <a href="https://linkedin.com/in/asmtamim" target="_blank"><img align="center" src="https://camo.githubusercontent.com/0f97be76882c909870c8188b191df789425a9dc785280dd44ea878f5188ab26f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6671594a4874797a5a7a4134766163527a654a6f423933514e7641352d6d76522d385542356f564c78645944535470664c705f4b67594434497156474a556746454a6f" height="40" width="40" /></a> | 
+    <a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://camo.githubusercontent.com/ccb5a051989c2ffe08f1923845d7611fc6f73b25d610fbebbffd300a5e79f8ed/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6465636865665f7368617265642f6d6973632f66622d696d6167652d69636f6e2e706e67" height="40" width="40" /></a> | 
+    <a href="https://www.hackerrank.com/asmtamim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" /></a> | 
+    <a href="https://leetcode.com/asmtamim" target="_blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="40" width="40" /></a> | 
     <a href="https://www.youtube.com/@asmtamim/featured" target="_blank"><img align="center" src="https://s3.eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2013/08/Youtube.jpg" height="40" width="40" /></a>
 
 </h3>
