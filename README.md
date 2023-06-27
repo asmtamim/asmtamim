@@ -18,7 +18,7 @@
 </h3>
 
 <br>
-<h2 align="center">Language & Technology</h2>
+<h2 align="left">Language & Technology</h2>
 
 #### These are the languages I know and the technologies I have worked with so far. 
 
