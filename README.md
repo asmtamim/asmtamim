@@ -1,6 +1,6 @@
 <h2 align="center">Hi, Assalamu Alaikum! 👋</h2>
 <h1 align="center">I'm TAMIM. Sirajum Munir Tamim.</h1>
-<h3 align="left">An Aspiring Software Developer, mostly Back-end!</h3> 
+<h3 align="center">An Aspiring Software Developer, mostly Back-end!</h3> 
 
 #### I am an IT enthusiast with a strong interest in pursuing a career as a Software & Web Developer. I have a solid fundamental knowledge of web development technology. I have worked on several projects, demonstrating my technical skills and ability to create functional and efficient applications. I also have experience in problem-solving. 
 #### I also have an understanding of the Software Development Life cycle (SDLC). My experience includes working with Visual Studio, Git, TortoiseGit, GitHub, and Microsoft Office Tools. My communication skills are excellent. In addition to my interests, I am passionate about software development, web development, personal health, traveling, and business.
@@ -18,7 +18,7 @@
 </h3>
 
 <br>
-<h2 align="left">Language & Technology</h2>
+<h2 align="center">Language & Technology</h2>
 
 #### These are the languages I know and the technologies I have worked with so far. 
 
