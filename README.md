@@ -3,8 +3,10 @@
 <h3 align="center">An Aspiring Software Developer, mostly Back-end!</h3> 
 
 #### I am an IT enthusiast with a strong interest in pursuing a career as a Software & Web Developer. I have a solid fundamental knowledge of web development technology. I have worked on several projects, demonstrating my technical skills and ability to create functional and efficient applications. I also have experience in problem-solving. 
-#### I also have an understanding of the Software Development Life Cycle– SDLC. My experience includes working with Visual Studio, Git, TortoiseGit, GitHub, and Microsoft Office Tools. My communication skills are excellent. In addition to my interests, I am passionate about software development, web development, personal health, traveling, and business.
+#### I also have an understanding of the Software Development Life cycle (SDLC). My experience includes working with Visual Studio, Git, TortoiseGit, GitHub, and Microsoft Office Tools. My communication skills are excellent. In addition to my interests, I am passionate about software development, web development, personal health, traveling, and business.
 #### In summary, I am a highly motivated, and dedicated individual with a strong passion for software development. With my technical skills, communication skills, and range of interests, I am confident in my ability to contribute to any team as a Software & Web Developer.
+
+<h2> </h2>
 
 - <h3>Contact Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a></h3>
 
