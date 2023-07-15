@@ -31,7 +31,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> • 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> • 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> • 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> • 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="mysql" width="40" height="40"/></a> • 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> • 
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/800px-.NET_Core_Logo.svg.png" alt="dotnet" width="40" height="40"/></a> • 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://andyleonard.blog/wp-content/uploads/2022/01/SSMS_Logo.jpg" alt="mssql" width="40" height="40"/></a>
