@@ -13,7 +13,7 @@
 - <h3 align="left">Find me on: 
     <a href="https://linkedin.com/in/asmtamim" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="40" width="40" /></a> | 
     <a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="50" /></a> | 
-    <a href="https://www.hackerrank.com/asmtamim" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50" width="50" /></a> 
+    <a href="https://www.hackerrank.com/asmtamim" target="_blank"><img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/39393275/hackerrank.jpg" height="40" width="40" /></a> 
     
 </h3>
 
