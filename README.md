@@ -2,8 +2,8 @@
 <h1 align="center">I'm TAMIM. Sirajum Munir Tamim.</h1>
 <h3 align="center">An Aspiring Software Developer, mostly Back-end!</h3> 
 
-#### I am an IT enthusiast with a strong interest in pursuing a career as a Software & Web Developer. I have a solid fundamental knowledge of web development technology. I have worked on several projects, demonstrating my technical skills and ability to create functional and efficient applications. I also have experience in problem-solving. 
-#### I also have an understanding of the Software Development Life cycle (SDLC). My experience includes working with Visual Studio, Git, TortoiseGit, GitHub, and Microsoft Office Tools. My communication skills are excellent. In addition to my interests, I am passionate about software development, web development, personal health, traveling, and business.
+#### I am an IT enthusiast with a strong interest in developing a career as a Software & Web Developer. Cuurently working as a Software Developer at a Software Company. I have worked on several projects, demonstrating my technical skills and ability to create functional and efficient applications.  
+#### I have a solid fundamental knowledge of web development technology. I also have an understanding of the Software Development Life cycle (SDLC). My experience includes working with Visual Studio, Git, GitHub, and Microsoft Office Tools. My communication skills are excellent. In addition to my interests, I am passionate about software development, web development, personal health, traveling, and business.
 #### In summary, I am a highly motivated, and dedicated individual with a strong passion for software development. With my technical skills, communication skills, and range of interests, I am confident in my ability to contribute to any team as a Software & Web Developer.
 
 <h2> </h2>
@@ -27,7 +27,6 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> • 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> • 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> • 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> • 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> • 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> • 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> • 
