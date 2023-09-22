@@ -6,7 +6,7 @@ I am an IT enthusiast with a strong interest in developing a career as a <b>Soft
 
 <hr>
 
-### 👉🏻 I am available at:
+### 👉 I am available at:
 
 - Linkedin: <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
 - Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a>
@@ -17,11 +17,11 @@ I am an IT enthusiast with a strong interest in developing a career as a <b>Soft
 
 ### ⚙️ Skills & Technologies:
 
-| Section     | Components                                     |
-| ----------- | ---------------------------------------------- | 
-| Language    | HTML, CSS, JavaScript, Python, C++, C#, SQL    | 
-| Framework   | Bootstrap, .NET Framework, ASP.NET             | 
-| Tools       | Git, GitHub, MS SQL Server, Visual Studio      | 
+| Section     | Components                                          |
+| ----------- | --------------------------------------------------- | 
+| Language    | HTML, CSS, JavaScript, Python, C++, C#, SQL         | 
+| Framework   | Bootstrap, .NET Framework, ASP.NET- Web Form, MVC   | 
+| Tools       | Git, GitHub, MS SQL Server, MySQL, Visual Studio    | 
 
 <br>
 
