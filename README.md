@@ -1,26 +1,32 @@
-<h2 align="center">Hi, Assalamu Alaikum! 👋</h2>
-<h1 align="center">I'm TAMIM. Sirajum Munir Tamim.</h1>
-<h3 align="center">An Aspiring Software Developer, mostly Back-end!</h3> 
+<h2 align="center">Hi 👋 Assalamu Alaikum! I'm Tamim. An Aspiring Software Developer. </h2>
 
-#### I am an IT enthusiast with a strong interest in developing a career as a Software & Web Developer. Cuurently working as a Software Developer at a Software Company. I have worked on several projects, demonstrating my technical skills and ability to create functional and efficient applications.  
-#### I have a solid fundamental knowledge of web development technology. I also have an understanding of the Software Development Life cycle (SDLC). My experience includes working with Visual Studio, Git, GitHub, and Microsoft Office Tools. My communication skills are excellent. In addition to my interests, I am passionate about software development, web development, personal health, traveling, and business.
-#### In summary, I am a highly motivated, and dedicated individual with a strong passion for software development. With my technical skills, communication skills, and range of interests, I am confident in my ability to contribute to any team as a Software & Web Developer.
+### About Me:
 
-<h2> </h2>
+<p align="justify">
+I am an IT enthusiast with a strong interest in developing a career as a Software & Web Developer. Cuurently working as a Software Developer at a Software Company. I have worked on several projects, demonstrating my technical skills and ability to create functional and efficient applications. I have a solid fundamental knowledge of web development technology. I also have an understanding of the Software Development Life cycle (SDLC). My experience includes working with Visual Studio, Git, GitHub, and Microsoft Office Tools. My communication skills are excellent. In addition to my interests, I am passionate about software development, web development, personal health, traveling, and business.
+</p>
 
-- <h3>Contact Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a></h3>
+<hr>
 
-- <h3 align="left">Find me on: 
-    <a href="https://linkedin.com/in/asmtamim" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="40" width="40" /></a> | 
-    <a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="50" /></a> | 
-    <a href="https://www.hackerrank.com/asmtamim" target="_blank"><img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/39393275/hackerrank.jpg" height="40" width="40" /></a> 
-    
-</h3>
+### Contact On:
+-- Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a>
+-- LinkedIn: <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
+-- Location: 🏘️ Savar, Dhaka, Bangladesh (GMT+6)
 
 <br>
-<h2 align="center">Language & Technology</h2>
 
-#### These are the languages I know and the technologies I have worked with so far. 
+### 💻 Employment History:
+
+| Position                        | Duration               | Company                          | Location                       |
+| ------------------------------- | ---------------------- | -------------------------------- | ------------------------------ |
+| Executive Software Developer    | Aug 2023 — Continue    | Pinovation Tech Ltd.             | Farmgate, Dhaka, Bangladesh    |
+| Trainee Software Developer      | Feb 2023 — Jul 2023    | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
+| IT Officer (Network & Support)  | Oct 2021 — Dec 2022    | Maxcom International (BD) Ltd.   | Hemayetpur, Savar, Bangladesh  |
+| Network Support Engineer        | Mar 2021 — Aug 2021    | Tomato Web Ltd. (ISP)            | Dhaka, Bangladesh              |
+
+<br>
+
+### The technologies I have worked with so far. 
 
 <br>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> • 
@@ -33,4 +39,22 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> • 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> • 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="mysql" width="40" height="40"/></a> 
+
+<br>
+
+### 🎓 Education:
+
+| Position                                  | Duration               | Institution                                       | Location                   |
+| ----------------------------------------- | ---------------------- | ------------------------------------------------- | -------------------------- |
+| B.Sc. in Computer Science & Engineering   | Aug 2023 — Continue    | Bangladesh University of Business And Technology  | Mirpur, Dhaka, Bangladesh  |
+| Higher Secondary Certificate (College)    | Feb 2023 — Jul 2023    | Savar Cantonment Public School And College        | Savar, Dhaka, Bangladesh   |
+
+<br>
+
+### ⚙️ Other Platforms:
+
+<a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="50" /></a> | 
+<a href="https://www.hackerrank.com/asmtamim" target="_blank"><img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/39393275/hackerrank.jpg" height="40" width="40" /></a> 
+
+<br>
 
