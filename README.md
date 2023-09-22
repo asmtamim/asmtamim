@@ -18,7 +18,6 @@ I am an IT enthusiast with a strong interest in developing a career as a Softwar
 
 ### ⚙️ Skills & Technologies:
 
-|               |                                                   |
 | ------------- | ------------------------------------------------- | 
 | Language      | HTML, CSS, Python, C++, C#, SQL, JavaScript       | 
 | Framework     | Bootstrap, .NET Framework, ASP.NET                | 
