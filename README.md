@@ -8,10 +8,10 @@ I am an IT enthusiast with a strong interest in developing a career as a Softwar
 
 <hr>
 
-### Contact On:
--- Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a>
--- LinkedIn: <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
--- Location: 🏘️ Savar, Dhaka, Bangladesh (GMT+6)
+### 📇 Contact On:
+- Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a>
+- LinkedIn: <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
+- Location: 🏘️ Savar, Dhaka, Bangladesh (GMT+6)
 
 <br>
 
@@ -26,7 +26,7 @@ I am an IT enthusiast with a strong interest in developing a career as a Softwar
 
 <br>
 
-### The technologies I have worked with so far. 
+### ⚙️ The technologies I have worked with so far. 
 
 <br>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> • 
@@ -41,20 +41,19 @@ I am an IT enthusiast with a strong interest in developing a career as a Softwar
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="mysql" width="40" height="40"/></a> 
 
 <br>
+<h3></h3>
 
-### 🎓 Education:
+### 👨‍🎓 Education:
 
-| Position                                  | Duration               | Institution                                       | Location                   |
-| ----------------------------------------- | ---------------------- | ------------------------------------------------- | -------------------------- |
-| B.Sc. in Computer Science & Engineering   | Aug 2023 — Continue    | Bangladesh University of Business And Technology  | Mirpur, Dhaka, Bangladesh  |
-| Higher Secondary Certificate (College)    | Feb 2023 — Jul 2023    | Savar Cantonment Public School And College        | Savar, Dhaka, Bangladesh   |
+| Degree                                           | Institution                                           | Location           |
+| ------------------------------------------------ | ----------------------------------------------------- | --------------- -- |
+| B.Sc. in Computer Science & Engineering          | Bangladesh University of Business And Technology      | Dhaka, Bangladesh  |
+| Higher Secondary Certificate (College)           | Savar Cantonment Public School And College            | Dhaka, Bangladesh  |
 
 <br>
 
-### ⚙️ Other Platforms:
+### 📜 Other Platforms:
 
-<a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="50" /></a> | 
-<a href="https://www.hackerrank.com/asmtamim" target="_blank"><img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/39393275/hackerrank.jpg" height="40" width="40" /></a> 
-
+<a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="50" /></a> 
 <br>
 
