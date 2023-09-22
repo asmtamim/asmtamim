@@ -45,10 +45,10 @@ I am an IT enthusiast with a strong interest in developing a career as a Softwar
 
 ### 👨‍🎓 Education:
 
-| Degree                                           | Institution                                           | Location           |
-| ------------------------------------------------ | ----------------------------------------------------- | --------------- -- |
-| B.Sc. in Computer Science & Engineering          | Bangladesh University of Business And Technology      | Dhaka, Bangladesh  |
-| Higher Secondary Certificate (College)           | Savar Cantonment Public School And College            | Dhaka, Bangladesh  |
+| Degree                                         | Institution                                           | Location           |
+| ---------------------------------------------- | ----------------------------------------------------- | ------------------ |
+| B.Sc. in Computer Science & Engineering        | Bangladesh University of Business And Technology      | Dhaka, Bangladesh  |
+| Higher Secondary Certificate (College)         | Savar Cantonment Public School And College            | Dhaka, Bangladesh  |
 
 <br>
 
