@@ -3,7 +3,7 @@
 ### 🙂 About Me:
 
 <p align="justify">
-I am an IT enthusiast with a strong interest in developing a career as a Software & Web Developer. Currently working as a Software Developer at a Software Company. I have worked on several projects, which demonstrate my technical skills and ability to create functional and efficient applications. I have solid understanding of the Software Development Life cycle (SDLC). My experience includes working with Visual Studio, Git, GitHub, Google Suite and Microsoft Office Tools. My communication skills are excellent. In addition to my interests, I am passionate about software & web development, personal health, traveling, and business.
+I am an IT enthusiast with a strong interest in developing a career as a <b>Software & Web Developer.</b> Currently working as a Software Developer at a Software Company. I have worked on several projects, which demonstrate my technical skills and ability to create functional and efficient applications. I have solid understanding of the Software Development Life cycle (SDLC). My communication skills are excellent. In addition to my interests, I am passionate about software & web development, personal health, traveling, and business.
 </p>
 
 <hr>
@@ -18,20 +18,21 @@ I am an IT enthusiast with a strong interest in developing a career as a Softwar
 
 ### ⚙️ Skills & Technologies:
 
-| ------------- | ------------------------------------------------- | 
-| Language      | HTML, CSS, Python, C++, C#, SQL, JavaScript       | 
-| Framework     | Bootstrap, .NET Framework, ASP.NET                | 
-| Tools         | Git, GitHub, MS SQL Server, Visual Studio         | 
+| Section       | Components                                     |
+| ------------- | ---------------------------------------------- | 
+| Language      | HTML, CSS, Python, C++, C#, SQL, JavaScript    | 
+| Framework     | Bootstrap, .NET Framework, ASP.NET             | 
+| Tools         | Git, GitHub, MS SQL Server, Visual Studio      | 
 
 <br>
 
 
 ### 👨🏻‍🎓 Education:
 
-| Degree                                          | Institution                                            | Location             |
-| ----------------------------------------------- | ------------------------------------------------------ | -------------------- |
-| B.Sc. in Computer Science & Engineering         | Bangladesh University of Business And Technology       | Dhaka, Bangladesh    |
-| Higher Secondary Certificate (College)          | Savar Cantonment Public School And College             | Dhaka, Bangladesh    |
+| Degree                                      | Institution                                         | Location             |
+| ------------------------------------------- | --------------------------------------------------- | -------------------- |
+| B.Sc. in Computer Science & Engineering     | Bangladesh University of Business And Technology    | Dhaka, Bangladesh    |
+| Higher Secondary Certificate (College)      | Savar Cantonment Public School And College          | Dhaka, Bangladesh    |
 
 <br>
 
@@ -48,7 +49,6 @@ I am an IT enthusiast with a strong interest in developing a career as a Softwar
 <br>
 
 
-### 📜 Other Platforms:
+### 👉 Other Platforms: <a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="50" /></a> 
 
-<a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="50" /></a> 
 <br>
