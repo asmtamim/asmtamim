@@ -16,11 +16,11 @@ I am an IT enthusiast with a strong interest in developing a career as a <b>Soft
 
 ### ⚙️ Skills & Technologies:
 
-| Section       | Components                                    |
-| ------------- | --------------------------------------------- | 
-| Language      | HTML-CSS, JavaScript, Python, C++, C#, SQL    | 
-| Framework     | Bootstrap, .NET Framework, ASP.NET            | 
-| Tools         | Git-GitHub, MS SQL Server, Visual Studio      | 
+| Section     | Components                                     |
+| ----------- | ---------------------------------------------- | 
+| Language    | HTML, CSS, JavaScript, Python, C++, C#, SQL    | 
+| Framework   | Bootstrap, .NET Framework, ASP.NET             | 
+| Tools       | Git, GitHub, MS SQL Server, Visual Studio      | 
 
 <br>
 
