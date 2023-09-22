@@ -6,7 +6,7 @@ I am an IT enthusiast with a strong interest in developing a career as a <b>Soft
 
 <hr>
 
-### 👉 I am available at:
+### 👉 I am Available at:
 
 - Linkedin: <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
 - Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a>
