@@ -8,20 +8,20 @@ I am an IT enthusiast with a strong interest in developing a career as a <b>Soft
 
 ### 👉 I am Available at:
 
-- Linkedin: <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
-- Email: <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a>
-- Location: Savar, Dhaka, Bangladesh (GMT+6)
+- `Linkedin` [Linkedin Badge] <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
+- `Email` [Mail Badge] <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a>
+- `Location` Savar, Dhaka, Bangladesh (GMT+6)
 
 <br>
 
 
 ### ⚙️ Skills & Technologies:
 
-| Section     | Components                                          |
-| ----------- | --------------------------------------------------- | 
-| Language    | HTML, CSS, JavaScript, Python, C++, C#, SQL         | 
-| Framework   | Bootstrap, .NET Framework, ASP.NET- Web Form, MVC   | 
-| Tools       | Git, GitHub, MS SQL Server, MySQL, Visual Studio    | 
+| Section     | Components                                               |
+| ----------- | -------------------------------------------------------- | 
+| Language    | `HTML` `CSS` `JavaScript` `Python` `C#` `SQL`            | 
+| Framework   | `Bootstrap` `.NET Framework` `ASP.NET` `Web Form` `MVC`  | 
+| Tools       | `Git` `GitHub` `MS SQL Server` `MySQL` `Visual Studio`   | 
 
 <br>
 
