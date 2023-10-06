@@ -17,7 +17,7 @@ I am an IT enthusiast with a strong interest in developing a career as a <b>Soft
 
 ### ⚙️ Skills & Technologies:
 
-| Section     | Components                                               |
+|             | Technology & Tools                                       |
 | ----------- | -------------------------------------------------------- | 
 | Language    | `HTML` `CSS` `JavaScript` `Python` `C#` `SQL`            | 
 | Framework   | `Bootstrap` `.NET Framework` `ASP.NET` `Web Form` `MVC`  | 
