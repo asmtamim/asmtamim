@@ -8,8 +8,8 @@ I am an IT enthusiast with a strong interest in developing a career as a <b>Soft
 
 ### 👉 I am Available at:
 
-- `Linkedin` [Linkedin Badge] <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
-- `Email` [Mail Badge] <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a>
+- `Linkedin` <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
+- `Email` <a href="mailto:tamim.webdev@gmail.com">tamim.webdev@gmail.com</a>
 - `Location` Savar, Dhaka, Bangladesh (GMT+6)
 
 <br>
