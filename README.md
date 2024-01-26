@@ -49,4 +49,4 @@ I am an ASP.NET Developer and Data Analyst with a bachelor's degree in computer 
 <br>
 
 
-<a href="https://leetcode.com/asmtamim" target="_blank"><img align="center" src="https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png" height="70" /></a> 
+<a href="https://leetcode.com/asmtamim" target="_blank"><img align="center" src="https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png" height="80" /></a> 
