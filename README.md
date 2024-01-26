@@ -1,7 +1,7 @@
-<h2 align="center">Hi 👋 Assalamu Alaikum! I'm Tamim. An Aspiring Software Developer. </h2>
+<h2 align="center">Hi 👋 Assalamu Alaikum! I'm Tamim. Aspiring ASP.NET Developer & Wannabe Data Analyst. </h2>
 
 <p align="justify">
-I am an IT enthusiast with a strong interest in developing a career as a <b>Software & Web Developer.</b> Currently working as a Software Developer at a Software Company. I have worked on several projects, which demonstrate my technical skills and ability to create functional and efficient applications. I have solid understanding of the SDLC-Software Development Life Cycle. My communication skills are excellent. In addition to my interests, I am passionate about higher-studies, software development, personal health, traveling, and business.
+I am an ASP.NET Developer and Data Analyst with a bachelor's degree in computer science, bringing 2 years of experience in ERP web applications and database development, focusing on Microsoft SQL Server. Proficient in SQL, Microsoft Excel, Power BI, C#, .NET framework, Python, and R. I handle tasks such as data cleaning, analysis, and visualization. Skilled in Crystal Report and RDLC, I also excel in ERP system web development and database design. Motivated and dedicated, I am confident in my ability to contribute effectively to any team with my technical and communication skills.
 </p>
 
 <hr>
@@ -11,17 +11,19 @@ I am an IT enthusiast with a strong interest in developing a career as a <b>Soft
 - `Linkedin` <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
 - `Email` <a href="mailto:asmtamim.bd@gmail.com">asmtamim.bd@gmail.com</a>
 - `Location` Savar, Dhaka, Bangladesh (GMT+6)
+- `LeetCode` <a href="https://leetcode.com/asmtamim">asmtamim</a>
 
 <br>
 
 
 ### ⚙️ Skills & Technologies:
 
-|             | Technology & Tools                                       |
-| ----------- | -------------------------------------------------------- | 
-| Language    | `HTML` `CSS` `JavaScript` `Python` `C#` `SQL`            | 
-| Framework   | `Bootstrap` `.NET Framework` `ASP.NET` `Web Form` `MVC`  | 
-| Tools       | `Git` `GitHub` `MS SQL Server` `MySQL` `Visual Studio`   | 
+|                 | Technology & Tools                                       |
+| --------------- | -------------------------------------------------------- | 
+| Language        | `HTML` `CSS` `JavaScript` `C#` `SQL` `Python`            | 
+| Framework       | `Bootstrap` `.NET Framework` `ASP.NET` `Web Form` `MVC`  | 
+| Tools           | `Git` `GitHub` `Microsoft SQL Server` `Visual Studio`    | 
+| Data Analytics  | `R` `Microsoft Excel` `Power BI` `Data Visualization`    | 
 
 <br>
 
@@ -41,7 +43,7 @@ I am an IT enthusiast with a strong interest in developing a career as a <b>Soft
 | Position                        | Duration               | Company                          | Location                       |
 | ------------------------------- | ---------------------- | -------------------------------- | ------------------------------ |
 | Executive Software Developer    | Aug 2023 — Continue    | Pinovation Tech Ltd.             | Farmgate, Dhaka, Bangladesh    |
-| Trainee Software Developer      | Feb 2023 — Jul 2023    | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
+| Data Analyst & Developer        | Feb 2023 — Continue    | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
 | IT Officer (Network & Support)  | Oct 2021 — Dec 2022    | Maxcom International (BD) Ltd.   | Hemayetpur, Savar, Bangladesh  |
 | Network Support Engineer        | Mar 2021 — Aug 2021    | Tomato Web Ltd. (ISP)            | Dhaka, Bangladesh              |
 
