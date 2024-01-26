@@ -9,7 +9,6 @@ I am an ASP.NET Developer and Data Analyst with a bachelor's degree in computer 
 ### 👉 I am Available at:
 
 - `Linkedin` <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
-- `LeetCode` <a href="https://leetcode.com/asmtamim">asmtamim</a>
 - `Email` <a href="mailto:asmtamim.bd@gmail.com">asmtamim.bd@gmail.com</a>
 - `Location` Savar, Dhaka, Bangladesh (GMT+6)
 
@@ -50,4 +49,4 @@ I am an ASP.NET Developer and Data Analyst with a bachelor's degree in computer 
 <br>
 
 
-<a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="50" /></a> 
+<a href="https://leetcode.com/asmtamim" target="_blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" height="50" /></a> 
