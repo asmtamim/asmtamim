@@ -19,7 +19,7 @@ I am an ASP.NET Developer and Data Analyst with a bachelor's degree in computer 
 
 |                 | Technology & Tools                                       |
 | --------------- | -------------------------------------------------------- | 
-| Language        | `HTML` `CSS` `JavaScript` `C#` `SQL` `Python`            | 
+| Language        | `HTML` `CSS` `JavaScript` `C++` `C#` `SQL` `Python`      | 
 | Framework       | `Bootstrap` `.NET Framework` `ASP.NET` `Web Form` `MVC`  | 
 | Tools           | `Git` `GitHub` `Microsoft SQL Server` `Visual Studio`    | 
 | Data Analytics  | `R` `Microsoft Excel` `Power BI` `Data Visualization`    | 
