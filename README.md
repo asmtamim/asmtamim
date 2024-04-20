@@ -1,4 +1,4 @@
-<h2 align="center">I'm Tamim. An Aspiring ASP.NET Developer & Wannabe Data Analyst. </h2>
+<h2 align="center">I'm Tamim. An Aspiring ASP.NET Software Developer. </h2>
 
 <p align="justify">
 I am an ASP.NET Developer and Data Analyst with a bachelor's degree in computer science, bringing 2 years of experience in ERP web applications and database development, focusing on Microsoft SQL Server. Proficient in SQL, Microsoft Excel, Power BI, C#, .NET framework, Python, and R. I handle tasks such as data cleaning, analysis, and visualization. Skilled in Crystal Report and RDLC, I also excel in ERP system web development and database design. Motivated and dedicated, I am confident in my ability to contribute effectively to any team with my technical and communication skills.
