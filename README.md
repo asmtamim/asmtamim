@@ -42,7 +42,7 @@ I am an ASP.NET Developer and Data Analyst with a bachelor's degree in computer 
 | Position                        | Duration               | Company                          | Location                       |
 | ------------------------------- | ---------------------- | -------------------------------- | ------------------------------ |
 | Executive Software Developer    | Aug 2023 — Continue    | Pinovation Tech Ltd.             | Farmgate, Dhaka, Bangladesh    |
-| Data Analyst & Developer        | Feb 2023 — Continue    | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
+| Trainee Software Developer      | Feb 2023 — Aug 2023    | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
 | IT Officer (Network & Support)  | Oct 2021 — Dec 2022    | Maxcom International (BD) Ltd.   | Hemayetpur, Savar, Bangladesh  |
 | Network Support Engineer        | Mar 2021 — Aug 2021    | Tomato Web Ltd. (ISP)            | Dhaka, Bangladesh              |
 
