@@ -41,7 +41,7 @@ I am an ASP.NET Developer with a bachelor's degree in computer science, bringing
 
 | Position                        | Duration               | Company                          | Location                       |
 | ------------------------------- | ---------------------- | -------------------------------- | ------------------------------ |
-| Software Developer              | Aug 2024 — ∞           | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
+| Software Developer              | Aug 2024 — ထ          | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
 | Executive Software Developer    | Aug 2023 — Jul 2023    | Pinovation Tech Ltd.             | Farmgate, Dhaka, Bangladesh    |
 | IT Officer (Network & Support)  | Oct 2021 — Dec 2022    | Maxcom International (BD) Ltd.   | Hemayetpur, Savar, Bangladesh  |
 | Network Support Engineer        | Mar 2021 — Aug 2021    | Tomato Web Ltd. (ISP)            | Dhaka, Bangladesh              |
