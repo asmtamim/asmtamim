@@ -19,8 +19,8 @@ I am an ASP.NET Developer with a bachelor's degree in computer science, bringing
 
 |                 | Technology & Tools                                       |
 | --------------- | -------------------------------------------------------- | 
-| Language        | `HTML` `CSS` `JavaScript— jQuery` `C++` `C#` `SQL`       | 
-| Framework       | `Bootstrap` `.NET Framework` `ASP.NET` `MVC` `Web Form`  | 
+| Language        | `C#` `C++` `SQL` `HTML` `CSS` `JavaScript— jQuery`       | 
+| Framework       | `.NET Framework` `ASP.NET` `MVC` `Web Form` `Bootstrap`  | 
 | Tools           | `Git` `GitHub` `Microsoft SQL Server` `Visual Studio`    | 
 
 <br>
