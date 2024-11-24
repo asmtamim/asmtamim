@@ -8,9 +8,9 @@ I am an ASP.NET Developer with a bachelor's degree in computer science, bringing
 
 ### 👉 I am Available at:
 
-- `Linkedin` <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
+- `Linkedin` <a href="https://linkedin.com/in/asmtamim">asmtamim</a> (GMT+6)
 - `Email` <a href="mailto:asmtamim.bd@gmail.com">asmtamim.bd@gmail.com</a>
-- `Location` Savar, Dhaka, Bangladesh (GMT+6)
+- `Problem-solving Platform` <a href="https://www.codechef.com/users/asmtamim" target="_blank">CodeChef</a>, <a href="https://leetcode.com/asmtamim" target="_blank">LeetCode</a>
 
 <br>
 
@@ -46,7 +46,3 @@ I am an ASP.NET Developer with a bachelor's degree in computer science, bringing
 | Network Support Engineer        | Mar 2021 — Aug 2021    | Tomato Web Ltd. (ISP)            | Dhaka, Bangladesh              |
 
 <br>
-
-
-<a href="https://www.codechef.com/users/asmtamim" target="_blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" height="80" /></a> | 
-<a href="https://leetcode.com/asmtamim" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" height="80" /></a> 
