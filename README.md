@@ -8,7 +8,7 @@ I am an ASP.NET Developer with a bachelor's degree in computer science, bringing
 
 ### 👉 I am Available at:
 
-- `Linkedin` <a href="https://linkedin.com/in/asmtamim">asmtamim</a> (GMT+6)
+- `Linkedin` <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
 - `Email` <a href="mailto:asmtamim.bd@gmail.com">asmtamim.bd@gmail.com</a>
 - `PS` <a href="https://www.codechef.com/users/asmtamim" target="_blank">CodeChef</a> & <a href="https://leetcode.com/asmtamim" target="_blank">LeetCode</a>
 
