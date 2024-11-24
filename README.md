@@ -6,7 +6,7 @@ I am an ASP.NET Developer with a bachelor's degree in computer science, bringing
 
 <hr>
 
-### 👉 I am Available at:
+### 👉 Available at:
 
 - `Email` <a href="mailto:asmtamim.bd@gmail.com">asmtamim.bd@gmail.com</a>
 - `PS` <a href="https://www.codechef.com/users/asmtamim" target="_blank">CodeChef</a> & <a href="https://leetcode.com/asmtamim" target="_blank">LeetCode</a>
@@ -40,8 +40,8 @@ I am an ASP.NET Developer with a bachelor's degree in computer science, bringing
 
 | Position                        | Duration               | Company                          | Location                       |
 | ------------------------------- | ---------------------- | -------------------------------- | ------------------------------ |
-| Software Developer              | Aug 2024 — ထ          | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
-| Executive Software Developer    | Aug 2023 — Jul 2023    | Pinovation Tech Ltd.             | Farmgate, Dhaka, Bangladesh    |
+| Software Developer              | Jul 2024 — ထ          | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
+| Executive Software Developer    | Aug 2023 — Jul 2024    | Pinovation Tech Ltd.             | Farmgate, Dhaka, Bangladesh    |
 | IT Officer (Network & Support)  | Oct 2021 — Dec 2022    | Maxcom International (BD) Ltd.   | Hemayetpur, Savar, Bangladesh  |
 | Network Support Engineer        | Mar 2021 — Aug 2021    | Tomato Web Ltd. (ISP)            | Dhaka, Bangladesh              |
 
