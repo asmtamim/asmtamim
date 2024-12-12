@@ -1,7 +1,7 @@
 <h2 align="center">I'm Tamim. An Aspiring .NET Software Engineer. </h2>
 
 <p align="justify">
-I am an ASP.NET Developer with a bachelor's degree in computer science, bringing 2 years of experience in ERP web applications and database development, focusing on the .NET framework and Microsoft SQL Server. Proficient in SQL, C#, .NET Framework, .NET Core, MVC architecture, and JavaScript (jQuery). I am skilled in Crystal Report and RDLC for report development. Motivated and dedicated, I am confident in contributing effectively to any team with my technical and communication skills.
+I am an ASP.NET Developer with a bachelor's degree in computer science. I bring two years of experience in ERP web applications and database development, focusing on the .NET framework and Microsoft SQL Server. I am proficient in SQL, C#, .NET Framework, .NET Core, MVC architecture, and JavaScript (jQuery). I am skilled in Crystal Report and RDLC for report development. Motivated and dedicated, I am confident in contributing effectively to any team with my technical and communication skills.
 </p>
 
 <hr>
@@ -40,8 +40,7 @@ I am an ASP.NET Developer with a bachelor's degree in computer science, bringing
 
 | Position                        | Duration               | Company                          | Location                       |
 | ------------------------------- | ---------------------- | -------------------------------- | ------------------------------ |
-| Software Developer              | Jul 2024 — ထ          | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
-| Executive Software Developer    | Aug 2023 — Jul 2024    | Pinovation Tech Ltd.             | Farmgate, Dhaka, Bangladesh    |
+| Software Developer              | Feb 2023 — ထ          | Desh Soft Ltd.                   | Mirpur, Dhaka, Bangladesh      |
 | IT Officer (Network & Support)  | Oct 2021 — Dec 2022    | Maxcom International (BD) Ltd.   | Hemayetpur, Savar, Bangladesh  |
 | Network Support Engineer        | Mar 2021 — Aug 2021    | Tomato Web Ltd. (ISP)            | Dhaka, Bangladesh              |
 
