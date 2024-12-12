@@ -1,4 +1,4 @@
-<h2 align="center">I'm Tamim. An Aspiring ASP.NET Software Developer. </h2>
+<h2 align="center">I'm Tamim. An Aspiring .NET Software Engineer. </h2>
 
 <p align="justify">
 I am an ASP.NET Developer with a bachelor's degree in computer science, bringing 2 years of experience in ERP web applications and database development, focusing on the .NET framework and Microsoft SQL Server. Proficient in SQL, C#, .NET Framework, .NET Core, MVC architecture, and JavaScript (jQuery). I am skilled in Crystal Report and RDLC for report development. Motivated and dedicated, I am confident in contributing effectively to any team with my technical and communication skills.
