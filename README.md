@@ -9,7 +9,7 @@ I am an ASP.NET Developer with a bachelor's degree in computer science. I bring 
 ### 👉 Available at:
 
 - `Email` <a href="mailto:asmtamim.bd@gmail.com">asmtamim.bd@gmail.com</a>
-- `Others` <a href="https://www.codechef.com/users/asmtamim" target="_blank">CodeChef</a> | <a href="https://leetcode.com/asmtamim" target="_blank">LeetCode</a>
+- `Others` <a href="https://www.codechef.com/users/asmtamim" target="_blank">CodeChef</a> | <a href="https://codeforces.com/profile/asmtamim" target="_blank">Codeforces</a> | <a href="https://leetcode.com/asmtamim" target="_blank">LeetCode</a>
 - `Linkedin` <a href="https://linkedin.com/in/asmtamim">asmtamim</a>
 
 <br>
